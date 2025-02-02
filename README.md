@@ -5,7 +5,6 @@
 Me chamo Nicoly De Marchi, tenho 18 anos e resido em Jundiaí-SP. Concluí o ensino médio no Senac Jundiaí, com o curso de Multimídia. Atualmente, estou cursando Gestão da tecnologia da Informação na FIAP. Sou apaixonada por tecnologia e programação, e estou sempre em busca de aprimorar minhas habilidades. Este repositório contém meus projetos e aprendizados, e fico feliz em compartilhar e colaborar com a comunidade. 
 <p>
   👩🏼‍💻 Sinta-se à vontade para explorar e contribuir!
-
   
 </p>
 
@@ -13,6 +12,9 @@ Me chamo Nicoly De Marchi, tenho 18 anos e resido em Jundiaí-SP. Concluí o ens
   
 </p>
 
+<p>
+  ![Meu GIF](https://github.com/user-attachments/assets/d2dd4383-e334-4f26-8075-b36723c902bf)
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -82,3 +84,4 @@ Me chamo Nicoly De Marchi, tenho 18 anos e resido em Jundiaí-SP. Concluí o ens
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=NicolyDeMarchi&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
+
