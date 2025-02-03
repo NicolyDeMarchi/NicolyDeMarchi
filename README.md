@@ -1,6 +1,6 @@
 # 🐼Nicoly De Marrchi - Bem-vindo ao meu repositório!
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-end`**
 
 Me chamo Nicoly De Marchi, tenho 18 anos e resido em Jundiaí-SP. Concluí o ensino médio no Senac Jundiaí, com o curso de Multimídia. Atualmente, estou cursando Gestão da tecnologia da Informação na FIAP. Sou apaixonada por tecnologia e programação, e estou sempre em busca de aprimorar minhas habilidades. Este repositório contém meus projetos e aprendizados, e fico feliz em compartilhar e colaborar com a comunidade. 
 <p>
