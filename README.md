@@ -92,6 +92,12 @@ Este repositório contém meus projetos e aprendizados, e fico muito feliz em po
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b574c247-1c33-49ec-9bfd-e112b43eeb23"/>
     
-
+ <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=NicolyDeMarchi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+   />
           
  
