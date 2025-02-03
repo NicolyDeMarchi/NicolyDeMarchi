@@ -1,4 +1,4 @@
-# 🐼Nicoly De Marrchi - Bem-vindo ao meu repositório!
+# 🐼Nicoly De Marchi - Bem-vindo ao meu repositório!
 
 **`Desenvolvedora Front-end`**
 
@@ -72,15 +72,5 @@ Me chamo Nicoly De Marchi, tenho 18 anos e resido em Jundiaí-SP. Concluí o ens
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NicolyDeMarchi&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-  
-
+---
+<img width=25% bottom=50px src= "https://github.com/user-attachments/assets/b574c247-1c33-49ec-9bfd-e112b43eeb23"/>
