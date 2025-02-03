@@ -69,16 +69,27 @@ Este repositório contém meus projetos e aprendizados, e fico muito feliz em po
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           
-
 <br/>
 <br/>
 
 ---
 ## 📱Entre em contato
-<a href="nicolydmarchi@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+
+<div aling="center"
+<a href= "nicolydmarchi@gmail.com">
+<img align="center"  height="60" width="60" src="https://github.com/user-attachments/assets/85cc7036-0a2f-4389-ab2f-d1d9444e2980"/>
 </a>
 
-          
+<a  href= "https://www.linkedin.com/in/nicoly-de-marchi-33a380339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg7jMqPuwQT6ArefYYKOFXA%3D%3D"/>
+<img align="center"  height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+</div>
+
+<img 
+    align="right" 
+    width="25%" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/b574c247-1c33-49ec-9bfd-e112b43eeb23"/>
           
           
