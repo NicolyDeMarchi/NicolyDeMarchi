@@ -15,7 +15,7 @@ Este repositório contém meus projetos e aprendizados, e fico muito feliz em po
   
 </p>
 
-
+  
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -91,5 +91,7 @@ Este repositório contém meus projetos e aprendizados, e fico muito feliz em po
     width="25%" 
     style="padding-right: 10px;" 
     src="https://github.com/user-attachments/assets/b574c247-1c33-49ec-9bfd-e112b43eeb23"/>
+    
+
           
-          
+ 
